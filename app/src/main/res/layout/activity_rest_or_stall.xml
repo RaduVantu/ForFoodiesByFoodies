@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RestOrStall">
+
+    <TextView
+        android:id="@+id/tvRos2"
+        android:layout_width="345dp"
+        android:layout_height="82dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:lineSpacingExtra="8sp"
+        android:text="Maybe you would like to add a stall"
+        android:textAllCaps="false"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnRosStall" />
+
+    <Button
+        android:id="@+id/btnRosMyProfile"
+        android:layout_width="420dp"
+        android:layout_height="50dp"
+        android:text="My profile"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvRos"
+        android:layout_width="345dp"
+        android:layout_height="82dp"
+        android:layout_marginTop="40dp"
+        android:gravity="center"
+        android:lineSpacingExtra="8sp"
+        android:text="Where would you like to eat today?"
+        android:textAllCaps="false"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnRosMyProfile" />
+
+    <TextView
+        android:id="@+id/tvRos1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="or"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnRosRest" />
+
+    <Button
+        android:id="@+id/btnRosStall"
+        android:layout_width="160dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="20dp"
+        android:text="Stall"
+        app:backgroundTint="#ED2196F3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvRos1" />
+
+    <Button
+        android:id="@+id/btnRosRest"
+        android:layout_width="160dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="20dp"
+        android:text="Restaurant"
+        app:backgroundTint="#D20B23A8"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvRos" />
+
+    <Button
+        android:id="@+id/btnRosNewstall"
+        android:layout_width="160dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:text="Add new stall"
+        app:backgroundTint="#ED2196F3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvRos2" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
