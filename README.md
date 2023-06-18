@@ -7,8 +7,8 @@
 <p>Foods stalls can be added and reviewed by any user. Users have full control over their revies (edit, delete) and can rate other user's reviews. The app also offers the posibility to book a table at any one of the available restaurants, by redirecting the user to the reservations website for the food place.</p>
 
 <h3> Technology used </h3>
-	- Android Studio</br>
-	- Google Firebase
+	- <a href="https://developer.android.com/studio">Android Studio</a></br>	
+	- <a href="https://firebase.google.com/">Google Firebase</a>
 
 <h3> Screenshots </h3>
 
