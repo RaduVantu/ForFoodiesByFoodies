@@ -10,6 +10,40 @@
 	- <a href="https://developer.android.com/studio">Android Studio</a></br>	
 	- <a href="https://firebase.google.com/">Google Firebase</a>
 
-<h3> Screenshots </h3>
-
-<p> Coming soon </p>
+<h3> Images </h3>
+<br/>
+<br/>
+<p align="center"> 
+	Main menu <br/>
+	<a href="https://imgur.com/ZDleWjo"><img src="https://i.imgur.com/ZDleWjo.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Restaurant list <br/>
+	<a href="https://imgur.com/qlsq7UU"><img src="https://i.imgur.com/qlsq7UU.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Restaurant details <br/>
+	<a href="https://imgur.com/sf5Rusx"><img src="https://i.imgur.com/sf5Rusx.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Redirect to restaurant reservation web page <br/>
+	<a href="https://imgur.com/73ijHgh"><img src="https://i.imgur.com/73ijHgh.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Food stall list <br/>
+	<a href="https://imgur.com/ttZlW1D"><img src="https://i.imgur.com/ttZlW1D.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Food stall details <br/>
+	<a href="https://imgur.com/QPb4d6Q"><img src="https://i.imgur.com/QPb4d6Q.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Adding new food stall <br/>
+	<a href="https://imgur.com/y2ZL9f4"><img src="https://i.imgur.com/y2ZL9f4.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Adding food stall review <br/>
+	<a href="https://imgur.com/QPb4d6Q"><img src="https://i.imgur.com/QPb4d6Q.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+</p>
